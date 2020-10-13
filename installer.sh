@@ -27,7 +27,7 @@ eche $blue && figlet "Installing requirements...
 echo " "
 echo -e $purple ================================================================
 
-chmod +rwx ubunut.sh
+chmod +rwx ubuntu.sh
 ./ubuntu.sh
 
 clear
